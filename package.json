@@ -1,0 +1,17 @@
+{
+  "name" : "fis-postpackager-offline-router",
+  "description" : "fis插件，在fis编译postpackage阶段进行行对路径寻址",
+  "version" : "0.1.0",
+  "author" : "bluestrings <yanbin01@baidu.com>",
+  "keywords": [ "fis", "offline" ],
+  "main" : "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluestrings/fis-postpackager-offline-router.git"
+  },
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">= 0.8.0"
+  }
+}
